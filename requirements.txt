@@ -1,6 +1,9 @@
-torch 
-torchvision
-torchaudio
-
+stable-ts
 openai-whisper
 streamlit
+
+#first you need to run:
+# - On ubtuntu:
+#       sudo apt update && sudo apt install ffmpeg 
+# - On windows:
+#       choco install ffmpeg
